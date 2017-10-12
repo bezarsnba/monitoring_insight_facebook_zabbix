@@ -10,9 +10,9 @@ Template: template_insight_facebook.xml.
 
 2. On script:
 
-access_token=<your access token generated>
+access_token= "your access token generated"
   
-page_id=<id page>
+page_id= "id page"
   
 more information:
 https://pt.slideshare.net/bezalielramos/monitoring-your-fanpagefacebookwithzabbix/edit?src=slideview&type=privacy
