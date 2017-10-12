@@ -11,6 +11,7 @@ Template: template_insight_facebook.xml.
 2. On script:
 
 access_token=<your access token generated>
+  
 page_id=<id page>
   
 more information:
