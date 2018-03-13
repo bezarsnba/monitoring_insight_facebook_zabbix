@@ -15,4 +15,5 @@ access_token= "your access token generated"
 page_id= "id page"
   
 more information:
-https://pt.slideshare.net/bezalielramos/monitoring-your-fanpagefacebookwithzabbix/edit?src=slideview&type=privacy
+https://pt.slideshare.net/bezalielramos/monitoring-your-fanpagefacebookwithzabbix/
+
